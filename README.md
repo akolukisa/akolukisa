@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @akolukisa
-- 👀 I’m interested in Java and Spring Boot
+- 👀 I’m interested in Artifical Intelligence, Python, Java, Computer Engineering related topics.
+- 👀 I have graduated from Electrical and Electronics Engineering,
+- 🌱 I am continuing my Master's degree education in Computer Engineering at Ege University.
 - 🌱 I’m currently learning Java and Spring Boot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Artificial intelligence in healthcare
+- 💞️ I have got Raspberry Pi 4 Model B and open to develop applications on it.
 - 📫 How to reach me ali.galip@outlook.com
 
 <!---
