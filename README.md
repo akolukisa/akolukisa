@@ -3,7 +3,7 @@
 - 👀 I have graduated from Electrical and Electronics Engineering,
 - 🌱 I am continuing my Master's degree education in Computer Engineering at Ege University.
 - 🌱 I’m currently learning Java and Spring Boot
-- 💞️ I’m looking to collaborate on Artificial intelligence in healthcare
+- 💞️ I’m looking to collaborate on Artificial intelligence, Data Science, All Software related jobs
 - 💞️ I have got Raspberry Pi 4 Model B and open to develop applications on it.
 - 📫 How to reach me ali.galip@outlook.com
 
